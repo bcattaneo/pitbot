@@ -1,0 +1,18 @@
+{
+  "irc": {
+    "server": "irc.freenode.net",
+    "password": "",
+    "port": 6667,
+    "nickname": "pitbot",
+    "nick_pass": "",
+    "user_name": "bot",
+    "real_name": "TG relay bot",
+    "channel": "##groupchannel",
+    "modes": "+BpiTt"
+  },
+  "telegram": {
+	"group_id": "-9999999999999",
+	"bot_token": "999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "base_url": "api.telegram.org",
+  }
+}
